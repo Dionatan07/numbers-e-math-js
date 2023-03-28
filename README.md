@@ -18,6 +18,6 @@ Curso de JavaScript
 - [x] Objeto Number, .toFixed(), .isInteger(), isNaN();
 - [x] Elemento .getElementById();
 
------------------------------------------------
+-------------------------------------------------
 
 Disponibilizado por [dionatan07](https://www.linkedin.com/in/dionatandeandrade/ "LinkedIn").
